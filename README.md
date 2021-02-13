@@ -21,3 +21,21 @@ Where 'a' is the column where the question starts and 'b' the column where the q
 - The final step was enumerating the columns by adding another index, in order to to identify and work better with them during the analysis.
 
 ### DATA ANALYSIS THROUGH GRAHPS
+
+I graphically represented those questions that I was more interested on. In some of the questions I wanted to know if there was some differences between the answers of the general survey and the answers of people of my range of age, so in those questions I represent two graphs, one for each profile, to compare the results.
+
+<img src="Graphs/CCPlatformsGraph.jpg">
+
+<img src="Graphs/CountryOfResidenceGrapg.jpg">
+
+<img src="Graphs/DSWorkloadsGraph.jpg">
+
+<img src="Graphs/EducationGraph.jpg">
+
+<img src="Graphs/ExperienceProgrammingGraph.jpg">
+
+<img src="Graphs/GendervsAgeChart.jpg">
+
+<img src="Graphs/MLAlgorithmsGraph.jpg">
+
+<img src="Graphs/ProgramsUsedGraph.jpg">
