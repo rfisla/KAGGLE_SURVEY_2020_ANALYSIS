@@ -24,18 +24,32 @@ Where 'a' is the column where the question starts and 'b' the column where the q
 
 I graphically represented those questions that I was more interested on. In some of the questions I wanted to know if there was some differences between the answers of the general survey and the answers of people of my range of age, so in those questions I represent two graphs, one for each profile, to compare the results.
 
+**The general survey has been done by 20.036 persons, and the number of people who match with my profile is 2.246**
+
+These are the main graphs obtained from the notebook:
+
+#### Cloud computing platforms used on a regular basis (comparison)
 <img src="Graphs/CCPlatformsGraph.jpg">
 
+#### Country of residence (comparison)
 <img src="Graphs/CountryOfResidenceGrapg.jpg">
 
+#### How many individuals are responsible for data science workloads at the place of business
 <img src="Graphs/DSWorkloadsGraph.jpg">
 
+#### Highest level of education (comparison)
 <img src="Graphs/EducationGraph.jpg">
 
+#### Years of experience writing code or programming (comparison)
 <img src="Graphs/ExperienceProgrammingGraph.jpg">
+
+#### Gender VS Age
 
 <img src="Graphs/GendervsAgeChart.jpg">
 
+#### Used of Machine Learning Algorithms (comparison)
+
 <img src="Graphs/MLAlgorithmsGraph.jpg">
 
+#### Programs used on a regular basis (comparison)
 <img src="Graphs/ProgramsUsedGraph.jpg">
