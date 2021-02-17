@@ -1,4 +1,4 @@
-# KAGGLE_SURVEY_2020_ANALYSIS
+# KAGGLE SURVEY 2020 ANALYSIS
 This repo contains an analysis of the 2020 Kaggle Machine Learning &amp; Data Science Survey. The data used is located in this link: https://www.kaggle.com/c/kaggle-survey-2020/data 
 
 
@@ -28,14 +28,12 @@ I graphically represented those questions that I was more interested on. In some
 
 These are the main graphs obtained from the notebook:
 
-#### Cloud computing platforms used on a regular basis (comparison)
-<img src="Graphs/CCPlatformsGraph.jpg">
+
+#### Gender VS Age
+<img src="Graphs/GendervsAgeChart.jpg">
 
 #### Country of residence (comparison)
 <img src="Graphs/CountryOfResidenceGrapg.jpg">
-
-#### How many individuals are responsible for data science workloads at the place of business
-<img src="Graphs/DSWorkloadsGraph.jpg">
 
 #### Highest level of education (comparison)
 <img src="Graphs/EducationGraph.jpg">
@@ -43,13 +41,16 @@ These are the main graphs obtained from the notebook:
 #### Years of experience writing code or programming (comparison)
 <img src="Graphs/ExperienceProgrammingGraph.jpg">
 
-#### Gender VS Age
-
-<img src="Graphs/GendervsAgeChart.jpg">
-
 #### Used of Machine Learning Algorithms (comparison)
-
 <img src="Graphs/MLAlgorithmsGraph.jpg">
+
+#### Cloud computing platforms used on a regular basis (comparison)
+<img src="Graphs/CCPlatformsGraph.jpg">
 
 #### Programs used on a regular basis (comparison)
 <img src="Graphs/ProgramsUsedGraph.jpg">
+
+#### How many individuals are responsible for data science workloads at the place of business
+<img src="Graphs/DSWorkloadsGraph.jpg">
+
+
