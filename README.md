@@ -44,7 +44,7 @@ def ranking_by_column(data, number_of_column, list_of_options):
 
 I graphically represented those questions that I was more interested on. In some of the questions I wanted to know if there was some differences between the answers of the general survey and the answers of people of my range of age, so in those questions I represent two graphs, one for each profile, to compare the results.
 
-- **The general survey has been done by 20.036 persons, and the number of people who matched with my profile is 2.246**
+- **The general survey has been done by 20.036 people, and the number of people who matched with my profile is 2.246**
 - **There are many questions not answered by all the survey respondents (blank spaces in the dataframe). I point out the number of people who answered the questions in those where there are a significant number of missed answers**
 - **In those graphs with percentages, it´s been applied over the numer of people who answered that specific question, not over all the survey respondents**
 
