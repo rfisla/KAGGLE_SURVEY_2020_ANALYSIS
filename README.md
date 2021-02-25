@@ -68,10 +68,10 @@ I graphically represented those questions that I was more interested on. In some
 <img src="Graphs/Comparing_titles.jpg">
 
 #### Comparing the job titles with the size of the company they are working in:
-<img src="sizecompanyVSposition.jpg">
+<img src="Graphs/sizecompanyVSposition.jpg">
 
 #### Comparing the job title with the age:
-<img src="TitlevsAge.jpg">
+<img src="Graphs/TitlevsAge.jpg">
 
 #### Used of Machine Learning Algorithms (comparison):
 <img src="Graphs/MLAlgorithmsGraph.jpg">
@@ -86,16 +86,16 @@ I graphically represented those questions that I was more interested on. In some
 <img src="Graphs/Visualizationlibraries.jpg">
 
 #### Big data products (relational databases, data warehouses, data lakes, or similar) used on a regular basis:
-<img src="Graphs/BigDataProducts.jpg.jpg">
+<img src="Graphs/BigDataProducts.jpg">
 
 #### Integrated development environments (IDE's) used  on a regular basis:
 <img src="Graphs/IDEs.jpg">
 
 #### Machine learning frameworks used on a regular basis:
-<img src="MLframeworks.jpg>
+<img src="Graphs/MLframeworks.jpg">
 
 #### Does their current employer incorporate machine learning methods into their business?:
-<img src="MLintobusiness.jpg>
+<img src="Graphs/MLintobusiness.jpg>
 
 #### Activities that make up an important part of their role at work:
 <img src="Graphs/Activities.jpg">
