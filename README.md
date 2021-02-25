@@ -1,6 +1,7 @@
 # KAGGLE SURVEY 2020 ANALYSIS
 This repo contains an analysis of the 2020 Kaggle Machine Learning &amp; Data Science Survey. The data used is located in this link: https://www.kaggle.com/c/kaggle-survey-2020/data 
 
+The goal of this analysis is to dig deeply in the current tendencies, in order to understand better the situation of the Data Science field, which programs and tools are more demanded - or at least more used in these days - with the objective of focusing the goals of my learning.
 
 ### DATA ENGINEERING
 The [Data Cleaning notebook](https://github.com/rfisla/KAGGLE_SURVEY_2020_ANALYSIS/blob/main/DATA_CLEANING.ipynb) shows the changes and transformations made as the previous step of analizing the Kaggle Survey. The main points of these notebook are:
@@ -51,61 +52,61 @@ I graphically represented those questions that I was more interested on. In some
 ### **These are the main graphs obtained from the notebook:**
 
 
-#### Gender VS Age
+#### Gender VS Age:
 <img src="Graphs/GendervsAgeChart.jpg">
 
-#### Country of residence 
+#### Country of residence:
 <img src="Graphs/CountryOfResidenceGrapg.jpg">
 
-#### Highest level of education (comparison)
+#### Highest level of education (comparison):
 <img src="Graphs/EducationGraph.jpg">
 
-#### Years of experience writing code or programming (comparison)
+#### Years of experience writing code or programming (comparison):
 <img src="Graphs/ExperienceProgrammingGraph.jpg">
 
-#### Comparing the job titles between the general profile and my profile
+#### Comparing the job titles between the general profile and my profile:
 <img src="Graphs/Comparing_titles.jpg">
 
-#### Comparing the job titles with the size of the company they are working in
+#### Comparing the job titles with the size of the company they are working in:
 <img src="sizecompanyVSposition.jpg">
 
-#### Comparing the job title with the age
+#### Comparing the job title with the age:
 <img src="TitlevsAge.jpg">
 
-#### Used of Machine Learning Algorithms (comparison)
+#### Used of Machine Learning Algorithms (comparison):
 <img src="Graphs/MLAlgorithmsGraph.jpg">
 
-#### Cloud computing platforms used on a regular basis 
+#### Cloud computing platforms used on a regular basis: 
 <img src="Graphs/CCPlatformsGraph.jpg">
 
-#### Programs used on a regular basis (comparison)
+#### Programs used on a regular basis (comparison):
 <img src="Graphs/ProgramsUsedGraph.jpg">
 
-#### Data visualization libraries or tools used on a regular basis
+#### Data visualization libraries or tools used on a regular basis:
 <img src="Graphs/Visualizationlibraries.jpg">
 
-#### Big data products (relational databases, data warehouses, data lakes, or similar) used on a regular basis
+#### Big data products (relational databases, data warehouses, data lakes, or similar) used on a regular basis:
 <img src="Graphs/BigDataProducts.jpg.jpg">
 
-#### Integrated development environments (IDE's) used  on a regular basis
+#### Integrated development environments (IDE's) used  on a regular basis:
 <img src="Graphs/IDEs.jpg">
 
-#### Machine learning frameworks used on a regular basis
+#### Machine learning frameworks used on a regular basis:
 <img src="MLframeworks.jpg>
 
-#### Does their current employer incorporate machine learning methods into their business?
+#### Does their current employer incorporate machine learning methods into their business?:
 <img src="MLintobusiness.jpg>
 
-#### Activities that make up an important part of their role at work
+#### Activities that make up an important part of their role at work:
 <img src="Graphs/Activities.jpg">
 
-#### Business intelligence tools used on a regular basis
+#### Business intelligence tools used on a regular basis:
 <img src="Graphs/BItools.jpeg">
 
-#### Type of computing platform used most often for their data science projects
+#### Type of computing platform used most often for their data science projects:
 <img src="Graphs/CCmoreused.jpg">
 
-#### Numer of individuals that are responsible for data science workloads at the place of business
+#### Numer of individuals that are responsible for data science workloads at the place of business:
 <img src="Graphs/DSWorkloadsGraph.jpg">
 
 
