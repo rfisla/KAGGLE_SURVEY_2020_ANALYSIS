@@ -26,7 +26,7 @@ def grouping ():
 
 ### DATA ANALYSIS THROUGH GRAHPS [Link](https://github.com/rfisla/KAGGLE_SURVEY_2020_ANALYSIS/blob/main/KAGGLE_SURVEY_ANALYSIS.ipynb)
 
-I needed a way to count and rank the  grouped columns, wwhich have several items in the same row. This is the function created for this goal:
+I needed a way to count and rank the grouped columns, which have several items in the same row. This is the function created for this goal:
 
 ```python
 def ranking_by_column(data, number_of_column, list_of_options):
@@ -44,15 +44,17 @@ def ranking_by_column(data, number_of_column, list_of_options):
 
 I graphically represented those questions that I was more interested on. In some of the questions I wanted to know if there was some differences between the answers of the general survey and the answers of people of my range of age, so in those questions I represent two graphs, one for each profile, to compare the results.
 
-**The general survey has been done by 20.036 persons, and the number of people who matched with my profile is 2.246**
+- **The general survey has been done by 20.036 persons, and the number of people who matched with my profile is 2.246**
+- **There are many questions not answered by all the survey respondents (blank spaces in the dataframe). I point out the number of people who answered the questions in those where there are a significant number of missed answers**
+- **In those graphs with percentages, it´s been applied over the numer of people who answered that specific question, not over all the survey respondents**
 
-These are the main graphs obtained from the notebook:
+### **These are the main graphs obtained from the notebook:**
 
 
 #### Gender VS Age
 <img src="Graphs/GendervsAgeChart.jpg">
 
-#### Country of residence (comparison)
+#### Country of residence 
 <img src="Graphs/CountryOfResidenceGrapg.jpg">
 
 #### Highest level of education (comparison)
@@ -61,16 +63,51 @@ These are the main graphs obtained from the notebook:
 #### Years of experience writing code or programming (comparison)
 <img src="Graphs/ExperienceProgrammingGraph.jpg">
 
+#### Comparing the job titles between the general profile and my profile
+<img src="Graphs/Comparing_titles.jpg">
+
+#### Comparing the job titles with the size of the company they are working in
+<img src="sizecompanyVSposition.jpg">
+
+#### Comparing the job title with the age
+<img src="TitlevsAge.jpg">
+
 #### Used of Machine Learning Algorithms (comparison)
 <img src="Graphs/MLAlgorithmsGraph.jpg">
 
-#### Cloud computing platforms used on a regular basis (comparison)
+#### Cloud computing platforms used on a regular basis 
 <img src="Graphs/CCPlatformsGraph.jpg">
 
 #### Programs used on a regular basis (comparison)
 <img src="Graphs/ProgramsUsedGraph.jpg">
 
-#### How many individuals are responsible for data science workloads at the place of business
+#### Data visualization libraries or tools used on a regular basis
+<img src="Graphs/Visualizationlibraries.jpg">
+
+#### Big data products (relational databases, data warehouses, data lakes, or similar) used on a regular basis
+<img src="Graphs/BigDataProducts.jpg.jpg">
+
+#### Integrated development environments (IDE's) used  on a regular basis
+<img src="Graphs/IDEs.jpg">
+
+#### Machine learning frameworks used on a regular basis
+<img src="MLframeworks.jpg>
+
+#### Does their current employer incorporate machine learning methods into their business?
+<img src="MLintobusiness.jpg>
+
+#### Activities that make up an important part of their role at work
+<img src="Graphs/Activities.jpg">
+
+#### Business intelligence tools used on a regular basis
+<img src="Graphs/BItools.jpeg">
+
+#### Type of computing platform used most often for their data science projects
+<img src="Graphs/CCmoreused.jpg">
+
+#### Numer of individuals that are responsible for data science workloads at the place of business
 <img src="Graphs/DSWorkloadsGraph.jpg">
+
+
 
 
