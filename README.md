@@ -95,7 +95,7 @@ I graphically represented those questions that I was more interested on. In some
 <img src="Graphs/MLframeworks.jpg">
 
 #### Does their current employer incorporate machine learning methods into their business?:
-<img src="Graphs/MLintobusiness.jpg>
+<img src="Graphs/MLintobusiness.jpg">
 
 #### Activities that make up an important part of their role at work:
 <img src="Graphs/Activities.jpg">
